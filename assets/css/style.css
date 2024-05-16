@@ -1,0 +1,48 @@
+.btn-soft-success {
+    background-color: rgba(3, 216, 127, 0.1);
+    color: #03d87f;
+}
+
+.btn-soft-success:hover {
+    background-color: #03d87f;
+    color: #fff
+}
+
+.btn-soft-danger {
+    background-color: rgba(245, 50, 92, 0.1);
+    color: #f5325c;
+}
+
+.btn-soft-danger:hover {
+    background-color: #f5325c;
+    color: #fff
+}
+
+.btn-soft-purple {
+    background-color: rgba(109, 129, 245, 0.1);
+    color: #6d81f5;
+}
+
+.btn-soft-purple:hover {
+    background-color: #6d81f5;
+    color: #fff
+}
+
+.btn-soft-info {
+    background-color: rgba(18, 164, 237, 0.1);
+    color: #12a4ed;
+}
+
+.btn-soft-info:hover {
+    background-color: #12a4ed;
+    color: #fff
+}
+
+#moretable th {
+    text-align: center;
+}
+
+.no-border,
+.no-border td {
+    border: 0 !important;
+}
